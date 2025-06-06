@@ -41,8 +41,7 @@ cd code-review-deepseek
     # Or Windows (CMD):
     .\venv\Scripts/activate.bat
     ```
-
-      ## ▶️ Running the Application
+## ▶️ Running the Application
 
 1.  **Start the FastAPI backend server**:
     ```bash
